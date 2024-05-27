@@ -27,3 +27,13 @@ data = pd.read_csv('data/Laptop2024.csv')
 # Perform analysis
 results = perform_analysis(data)
 print(results)
+ ```
+
+
+
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Author
+- Abdoulaye MBAYE
+
